@@ -28,4 +28,22 @@ npm install prompt-sync
  --------------------------------------------------------------------------------------------------------------------------------------------------------------
  Executar os exercícios
 ### Clone este repositório:https://github.com/LarissaSMachado/Exercicio_maispraTI2/edit/main/README.md
+📁   Exercicio_maispraTI2/       ← pasta principal
+│
+├── README.md               ← o guia principal do projeto
+│
+├── secao1/                 ← Estruturas de Controle Avançadas
+│   ├── atividade1-validarData.js
+│   ├── atividade2-jogoAdivinhacao.js
+│   └── atividade3-palavrasUnicas.js
+│
+├── secao2/                 ← Funções e Recursão
+│   ├── atividade4-fatorialRecursivo.js
+│   ├── atividade5-debounce.js
+│   └── atividade6-memoize.js
+│
+├── secao3/                 ← Arrays e Objetos Complexos
+│   ├── atividade7-mapeamentoOrdenacao.js
+│   ├── atividade8-agruparPorCliente.js
+│   └── atividade9-converterFormatos.js
 
